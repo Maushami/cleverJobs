@@ -11,6 +11,14 @@ document.querySelector("#filter-jobs")
     })
 })
 
+let dayNightMode = document.querySelector(".switch")
+dayNightMode.addEventListener("click", () =>{
+      dayNightMode.classList.toggle("day-switch")
+      let body = document.querySelector("body")
+      body.classList.toggle("day-mode")
+    }
+)
+
 function getJobs(){
     return fetch("data.json")
     .then(response => response.json())
