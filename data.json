@@ -43,7 +43,7 @@
   {
     "id": 3,
     "company": "Jobot",
-    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/icons/2.png",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/2.png",
     "roleName": "SR. Software Engineer - Python Django",
     "postedTime": "1d ago",
     "type": "Part Time",
@@ -63,7 +63,7 @@
   {
     "id": 4,
     "company": "SpringbokIT",
-    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/icons/3.png",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/3.png",
     "roleName": "Frontend Content Developer",
     "postedTime": "2d ago",
     "type": "Full Time",
@@ -83,7 +83,7 @@
   {
     "id": 5,
     "company": "Dice",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEYK67Tel_mng/company-logo_200_200/0/1624162747433?e=1632960000&v=beta&t=F2NDtQwFDzIZzYfL2hVY6Ik7jY1uAXX43F8u0b_qRG0",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/4.png",
     "roleName": "Front End Developer",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -103,7 +103,7 @@
   {
     "id": 6,
     "company": "The Population Project",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHqd8XtvITvMw/company-logo_200_200/0/1620162734126?e=1632960000&v=beta&t=s_UAIFXLLnVUJJnlpd1X686SWG-7I3IjyyYwA5p-WNM",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/5.jpg",
     "roleName": "CTO / Co-founder",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -123,7 +123,7 @@
   {
     "id": 7,
     "company": "Georgia IT, Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHTI2pFWjn2UA/company-logo_200_200/0/1519897797698?e=1632960000&v=beta&t=5H-Vp8dCcXJ8fICwNGmB2YQzJYqyimjkZFYF-4j5fj0",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/6.png",
     "roleName": "Full Stack Engineer - REMOTE or Onsite",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -143,7 +143,7 @@
   {
     "id": 8,
     "company": "Michael Page",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFWT_CW-6Hd2Q/company-logo_200_200/0/1623848489646?e=1632960000&v=beta&t=eyDm2mqsK9xeBZawTXTUsBYze8WRduxd3uukb4T26Ao",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/7.png",
     "roleName": "Frontend Software Engineer Remote Banking $130k/yr",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -163,7 +163,7 @@
   {
     "id": 9,
     "company": "GAOTek Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQGg0dos_fVHhA/company-logo_200_200/0/1567998421321?e=1632960000&v=beta&t=X7EYf4jI7lCJfyrtzOKhv2bkz4rrML4AmbMN1g1jqLY",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/8.jpg",
     "roleName": "Software Development Intern (Virtual)",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -183,7 +183,7 @@
   {
     "id": 10,
     "company": "RemoteHub",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQ_EPbBXR8Hg/company-logo_200_200/0/1604324330666?e=1632960000&v=beta&t=53alZNNXv3B7o_J5jHG4pe7plcWIMBB8kdgxS1ooMCQ",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/9.jpg",
     "roleName": "Work from Home Opportunities",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -203,7 +203,7 @@
   {
     "id": 11,
     "company": "Suncap Technology",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEROuteF2F3gQ/company-logo_200_200/0/1555514992609?e=1632960000&v=beta&t=7P8pg3cma4GKzE6l7SmGRp-zjdd_WC_KSkMEwGzmWAw",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/10.jpg",
     "roleName": "Front-end Web Developer /Remote (San Bruno, CA Post Covid) 12 mth+ contract",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -223,7 +223,7 @@
   {
     "id": 12,
     "company": "HomeLister",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHCaYJPwpvdIQ/company-logo_200_200/0/1519892616664?e=1632960000&v=beta&t=SFdjFVBx6X3Ynpxd2SrxF9lbBufwgSNqf-SGQZ3vJcE",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/11.jpg",
     "roleName": "Data Entry Specialist - Full Time - Work From Home",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -243,7 +243,7 @@
   {
     "id": 13,
     "company": "WMI Worldwide",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQESmXHE28MpUw/company-logo_200_200/0/1519905226668?e=1632960000&v=beta&t=gi-x1SZrOMdTO-Oc6sdZ-G7UDr8Y5M7ixo5ddribOKk",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/12.jpeg",
     "roleName": "Software Engineer II",
     "postedTime": "2d ago",
     "type": "Part Time",
@@ -263,7 +263,7 @@
   {
     "id": 14,
     "company": "RIT Solutions, Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEP3xJYibhYmQ/company-logo_200_200/0/1595879151058?e=1632960000&v=beta&t=19s3Bsxz2fGxZoJ_ybc4BJ4SbCQopUPcAC6NZ601T-Y",
+    "logo": "https://raw.githubusercontent.com/Maushami/cleverJobs/main/image/icons/14.jpg",
     "roleName": "UI developer - REMOTE",
     "postedTime": "2d ago",
     "type": "Part Time",
