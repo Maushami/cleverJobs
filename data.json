@@ -23,7 +23,7 @@
   {
     "id": 2,
     "company": "Facebook",
-    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/1.png",
+    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/icons/1.png",
     "roleName": "3D Web Software Engineer",
     "postedTime": "20h ago",
     "type": "Part Time",
@@ -43,7 +43,7 @@
   {
     "id": 3,
     "company": "Jobot",
-    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/2.png",
+    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/icons/2.png",
     "roleName": "SR. Software Engineer - Python Django",
     "postedTime": "1d ago",
     "type": "Part Time",
@@ -63,7 +63,7 @@
   {
     "id": 4,
     "company": "SpringbokIT",
-    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/3.png",
+    "logo": "https://github.com/Maushami/cleverJobs/blob/main/image/icons/3.png",
     "roleName": "Frontend Content Developer",
     "postedTime": "2d ago",
     "type": "Full Time",
